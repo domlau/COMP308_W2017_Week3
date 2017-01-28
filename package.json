@@ -1,0 +1,28 @@
+{
+  "name": "comp308_lesson2",
+  "version": "1.0.0",
+  "description": "Connect module",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domlau/COMP308-W2017-Lesson2B.git"
+  },
+  "keywords": [
+    "connect",
+    "module"
+  ],
+  "author": "Dominic Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domlau/COMP308-W2017-Lesson2B/issues"
+  },
+  "homepage": "https://github.com/domlau/COMP308-W2017-Lesson2B#readme"
+}
