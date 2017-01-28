@@ -14,6 +14,10 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.5.0"
+  },
   "description": "please use **`npm install`** to install project dep",
   "main": "server.js",
   "devDependencies": {},
