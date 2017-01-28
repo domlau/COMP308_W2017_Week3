@@ -1,10 +1,9 @@
-//server goes here
-//import connect module and assign it as reference to connect variable
-let connect = require('connect');
+
+let express = require('express');
 //instance of the connect server
-let app = connect();
+let app = express();
 //declare port constant
-const port = 2000;
+const port = 3000;
 
 //routing
 //hello world route

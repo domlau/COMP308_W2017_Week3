@@ -1,10 +1,10 @@
 {
-  "name": "comp308_lesson2",
+  "name": "comp308_lesson3",
   "version": "1.0.0",
-  "description": "Connect module",
+  "description": "Demo Express app",
   "main": "server.js",
   "dependencies": {
-    "connect": "^3.5.0"
+    "express": "^4.14.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/domlau/COMP308-W2017-Lesson2B.git"
+    "url": "git+https://github.com/domlau/COMP308_W2017_Week3.git"
   },
   "keywords": [
     "connect",
@@ -22,7 +22,7 @@
   "author": "Dominic Lau",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/domlau/COMP308-W2017-Lesson2B/issues"
+    "url": "https://github.com/domlau/COMP308_W2017_Week3/issues"
   },
   "homepage": "https://github.com/domlau/COMP308-W2017-Lesson2B#readme"
 }
