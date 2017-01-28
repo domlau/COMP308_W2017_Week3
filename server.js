@@ -3,7 +3,10 @@ let express = require('express');
 //instance of the connect server
 let app = express();
 //declare port constant
-const port = 3000;
+const localport = 3000;
+
+let port = process.env.PORT || localport;
+app.set('port',port);
 
 //routing
 //hello world route
